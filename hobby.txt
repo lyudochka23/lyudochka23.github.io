@@ -1,0 +1,13 @@
+       </title>
+     <link rel="stylesheet" href="style.css">
+   </head>
+   <body>
+       <h1>
+         Мои увлечения
+      </h1>
+      <ul>
+       <li>танцы<li>
+       <li>пение<li>
+       <li>лежать на кровате<li>
+  </body>
+</html>
